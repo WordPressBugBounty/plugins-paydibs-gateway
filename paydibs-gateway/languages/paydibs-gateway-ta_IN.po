@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paydibs Gateway 4.0.6\n"
+"Report-Msgid-Bugs-To: https://paydibs.com\n"
+"POT-Creation-Date: 2026-06-03 00:00+0000\n"
+"PO-Revision-Date: 2026-06-03 00:00+0000\n"
+"Language-Team: Tamil\n"
+"Language: ta_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Paydibs Gateway requires WooCommerce 2.6 or later. Please update WooCommerce."
+msgstr "Paydibs நுழைவாயிலுக்கு WooCommerce 2.6 அல்லது அதற்கு மேல் வேண்டும். WooCommerce-ஐ புதுப்பிக்கவும்."
+
+msgid "Paydibs Gateway"
+msgstr "Paydibs நுழைவாயில்"
+
+msgid "Paydibs Gateway V4.0.6"
+msgstr "Paydibs நுழைவாயில் V4.0.6"
+
+msgid "Invalid order reference."
+msgstr "ஆர்டர் குறிப்பு செல்லாது."
+
+msgid "Invalid transaction amount."
+msgstr "பரிவர்த்தனை தொகை செல்லாது."
+
+msgid "Invalid currency code."
+msgstr "நாணயக் குறியீடு செல்லாது."
+
+msgid "Invalid transaction status."
+msgstr "பரிவர்த்தனை நிலை செல்லாது."
+
+msgid "Invalid signature format."
+msgstr "கையொப்ப வடிவம் சரியில்லை."
+
+msgid "Invalid signature."
+msgstr "கையொப்பம் சரிபார்க்கப்படவில்லை."
+
+msgid "Order not found."
+msgstr "ஆர்டர் கிடைக்கவில்லை."
+
+msgid "No valid data received"
+msgstr "செல்லுபடியான தரவு வரவில்லை"
+
+msgid "Missing required parameter: %s"
+msgstr "தேவையான அளவுரு இல்லை: %s"
+
+msgid "Invalid parameter type for: %s"
+msgstr "%s-க்கான அளவுரு வகை தவறு"
+
+msgid "Accept FPX, online banking, e-wallets, and card payments with Paydibs. Easy WooCommerce setup, secure checkout, and saved cards for returning customers."
+msgstr "Paydibs வழியாக FPX, ஆன்லைன் வங்கி, ஈ-வாலட், அட்டை கட்டணம் வாங்கலாம். WooCommerce-ல் எளிய அமைப்பு, பாதுகாப்பான செக்அவுட், வழக்கமான வாடிக்கையாளர்களுக்கு சேமித்த அட்டை."
+
+msgid "Pay with Paydibs"
+msgstr "Paydibs வழியாக கட்டணம் செலுத்துங்கள்"
+
+msgid "Test mode is on. You can run a test payment to try checkout."
+msgstr "சோதனை முறை இயக்கத்தில். செக்அவுட் சோதிக்க சோதனை கட்டணம் செய்யலாம்."
+
+msgid "Enable/Disable"
+msgstr "இயக்கு/நிறுத்து"
+
+msgid "Enable Paydibs Gateway"
+msgstr "Paydibs நுழைவாயிலை இயக்கு"
+
+msgid "Turn on to accept payments through Paydibs."
+msgstr "இயக்கினால் Paydibs வழியாக கட்டணம் வாங்கலாம்."
+
+msgid "Debug mode"
+msgstr "பிழைதிருத்த முறை"
+
+msgid "Enable Debug logging"
+msgstr "பிழைதிருத்த பதிவை இயக்கு"
+
+msgid "Log activity to help troubleshoot issues."
+msgstr "பிழைதிருத்தத்திற்கு செயல்பாட்டைப் பதிவு செய்யவும்."
+
+msgid "Test mode"
+msgstr "சோதனை முறை"
+
+msgid "Live mode"
+msgstr "நேரடி முறை"
+
+msgid "Change store currency"
+msgstr "கடை நாணயத்தை மாற்று"
+
+msgid "Enable Test Mode"
+msgstr "சோதனை முறையை இயக்கு"
+
+msgid "Use test API keys to run the gateway in test mode."
+msgstr "சோதனை API விசைகளால் நுழைவாயிலை சோதனை முறையில் இயக்கவும்."
+
+msgid "Test Merchant ID"
+msgstr "சோதனை வணிகர் ID"
+
+msgid "Test Secret Key"
+msgstr "சோதனை ரகசிய விசை"
+
+msgid "Test Currency"
+msgstr "சோதனை நாணயம்"
+
+msgid "Auto (use store currency)"
+msgstr "தானியங்கு (கடை நாணயம்)"
+
+msgid "Live Merchant ID"
+msgstr "நேரடி வணிகர் ID"
+
+msgid "Live Secret Key"
+msgstr "நேரடி ரகசிய விசை"
+
+msgid "Live Currency"
+msgstr "நேரடி நாணயம்"
+
+msgid "Cash on Delivery (COD)"
+msgstr "டெலிவரியில் பணம் (COD)"
+
+msgid "Enable COD fields for Paydibs"
+msgstr "Paydibs-க்கு COD புலங்களை இயக்கு"
+
+msgid "Enable receiver and parcel fields required by COD payment channels."
+msgstr "COD கட்டணத்திற்கு பெறுநர், பார்சல் புலங்களை இயக்கு."
+
+msgid "Default Parcel Weight (kg)"
+msgstr "இயல்புநிலை பார்சல் எடை (kg)"
+
+msgid "Default Parcel Length (cm)"
+msgstr "இயல்புநிலை பார்சல் நீளம் (cm)"
+
+msgid "Default Parcel Width (cm)"
+msgstr "இயல்புநிலை பார்சல் அகலம் (cm)"
+
+msgid "Default Parcel Height (cm)"
+msgstr "இயல்புநிலை பார்சல் உயரம் (cm)"
+
+msgid "Receiver Address Type"
+msgstr "பெறுநர் முகவரி வகை"
+
+msgid "Home"
+msgstr "வீடு"
+
+msgid "Office"
+msgstr "அலுவலகம்"
+
+msgid "Others"
+msgstr "மற்றவை"
+
+msgid "Paydibs Gateway: Store currency %1$s, gateway currency %2$s (%3$s). %4$s"
+msgstr "Paydibs நுழைவாயில்: கடை நாணயம் %1$s, நுழைவாயில் நாணயம் %2$s (%3$s). %4$s"
+
+msgid "Paydibs payment settings"
+msgstr "Paydibs கட்டண அமைப்புகள்"
+
+msgid "Paydibs is in test mode. Real FPX, card, and banking charges will not run. Turn off test mode before you go live. %s"
+msgstr "Paydibs சோதனை முறையில். உண்மை FPX, அட்டை, வங்கி கட்டணம் வசூலாகாது. நேரடிக்குச் செல்லும் முன் சோதனை முறையை நிறுத்துங்கள். %s"
+
+msgid "Paydibs is in test mode. Real FPX, card, and banking charges will not run. Turn off test mode before you go live."
+msgstr "Paydibs சோதனை முறையில். உண்மை FPX, அட்டை, வங்கி கட்டணம் வசூலாகாது. நேரடிக்குச் செல்லும் முன் சோதனை முறையை நிறுத்துங்கள்."
+
+msgid "Transaction status verification failed for payment %1$s. Expected status %2$s; gateway query returned %3$s."
+msgstr "கட்டணம் %1$s நிலை சரிபார்ப்பு தோல்வி. எதிர்பார்த்தது %2$s; நுழைவாயில் விசாரணை %3$s."
+
+msgid "Empty response body from payment gateway."
+msgstr "கட்டண நுழைவாயிலில் இருந்து வெற்று பதில்."
+
+msgid "Failed to decode JSON response from payment gateway."
+msgstr "கட்டண நுழைவாயில் JSON பதிலைப் படிக்க முடியவில்லை."
+
+msgid "Invalid gateway response body."
+msgstr "நுழைவாயில் பதில் செல்லாது."
+
+msgid "Gateway response missing required field: %s"
+msgstr "நுழைவாயில் பதிலில் தேவையான புலம் இல்லை: %s"
+
+msgid "HTTP error contacting payment gateway: %s"
+msgstr "கட்டண நுழைவாயிலைத் தொடர்புகொள்ள HTTP பிழை: %s"
+
+msgid "Unexpected HTTP response code from payment gateway: %d"
+msgstr "கட்டண நுழைவாயிலில் எதிர்பாராத HTTP குறியீடு: %d"
+
+msgid "Paydibs Setup Wizard"
+msgstr "Paydibs அமைப்பு வழிகாட்டி"
+
+msgid "You do not have permission to access this page."
+msgstr "இந்தப் பக்கத்தை அணுக உங்களுக்கு அனுமதி இல்லை."
+
+msgid "Test Merchant ID and Test Secret Key are required."
+msgstr "சோதனை வணிகர் ID மற்றும் ரகசிய விசை அவசியம்."
+
+msgid "Complete your gateway setup in a few guided steps."
+msgstr "சில எளிய படிகளில் நுழைவாயில் அமைப்பை முடிக்கவும்."
+
+msgid "1. Mode"
+msgstr "1. முறை"
+
+msgid "2. Test Credentials"
+msgstr "2. சோதனை சான்றுகள்"
+
+msgid "3. Live Credentials"
+msgstr "3. நேரடி சான்றுகள்"
+
+msgid "4. Finalize"
+msgstr "4. முடித்தல்"
+
+msgid "Choose startup mode"
+msgstr "தொடக்க முறையைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Use the switch to choose where you want transactions to run first."
+msgstr "பரிவர்த்தனை முதலில் சோதனையிலா நேரடியிலா என்று சுவிட்சால் தேர்ந்தெடுக்கவும்."
+
+msgid "Live"
+msgstr "நேரடி"
+
+msgid "Test (recommended)"
+msgstr "சோதனை (பரிந்துரை)"
+
+msgid "Switch ON for Test mode, OFF for Live mode."
+msgstr "இயக்கு = சோதனை முறை, நிறுத்து = நேரடி முறை."
+
+msgid "Continue"
+msgstr "தொடரவும்"
+
+msgid "Configure test environment"
+msgstr "சோதனை சூழலை அமைக்கவும்"
+
+msgid "Add staging credentials used for sandbox checkout testing."
+msgstr "சாண்ட்பாக்ஸ் செக்அவுட் சோதனைக்கான staging சான்றுகளைச் சேர்க்கவும்."
+
+msgid "Show secret key"
+msgstr "ரகசிய விசையைக் காட்டு"
+
+msgid "Use AUTO to follow your WooCommerce store currency."
+msgstr "AUTO தேர்ந்தெடுத்தால் WooCommerce கடை நாணயம் பயன்படும்."
+
+msgid "Save and continue"
+msgstr "சேமித்து தொடரவும்"
+
+msgid "Configure production environment"
+msgstr "உற்பத்தி சூழலை அமைக்கவும்"
+
+msgid "You can set live credentials now or keep this empty and complete later."
+msgstr "நேரடி சான்றுகளை இப்போது நிரப்பலாம் அல்லது பின்னர் முடிக்கலாம்."
+
+msgid "Finalize setup"
+msgstr "அமைப்பை முடிக்கவும்"
+
+msgid "Choose optional behaviors and complete onboarding."
+msgstr "விருப்ப அமைப்புகளைத் தேர்ந்தெடுத்து தொடக்கத்தை முடிக்கவும்."
+
+msgid "Enable debug logging"
+msgstr "பிழைதிருத்த பதிவை இயக்கு"
+
+msgid "Enable COD fields"
+msgstr "COD புலங்களை இயக்கு"
+
+msgid "Switch to Live mode now"
+msgstr "இப்போது நேரடி முறைக்கு மாற்று"
+
+msgid "Tip: If you keep Test mode enabled, you can safely run trial orders before going live."
+msgstr "குறிப்பு: சோதனை முறையில் பாதுகாப்பாக சோதனை ஆர்டர் செய்து, பின்னர் நேரடிக்குச் செல்லுங்கள்."
+
+msgid "Finish setup"
+msgstr "அமைப்பை முடி"
+
+msgid "Open gateway settings"
+msgstr "நுழைவாயில் அமைப்புகளைத் திற"
+
+msgid "Setup complete. Reopen this wizard anytime at WooCommerce > Settings > Payments > Paydibs Gateway, or visit the setup wizard URL after activation."
+msgstr "அமைப்பு முடிந்தது. WooCommerce > அமைப்புகள் > கட்டணங்கள் > Paydibs நுழைவாயில் என்றிடத்தில் வழிகாட்டியை மீண்டும் திறக்கலாம்."
+

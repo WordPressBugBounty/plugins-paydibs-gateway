@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paydibs Gateway 4.0.6\n"
+"Report-Msgid-Bugs-To: https://paydibs.com\n"
+"POT-Creation-Date: 2026-06-03 00:00+0000\n"
+"PO-Revision-Date: 2026-06-03 00:00+0000\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Paydibs Gateway requires WooCommerce 2.6 or later. Please update WooCommerce."
+msgstr "Paydibs गेटवे के लिए WooCommerce 2.6 या उससे ऊपर चाहिए। कृपया WooCommerce अपडेट करें।"
+
+msgid "Paydibs Gateway"
+msgstr "Paydibs गेटवे"
+
+msgid "Paydibs Gateway V4.0.6"
+msgstr "Paydibs गेटवे V4.0.6"
+
+msgid "Invalid order reference."
+msgstr "ऑर्डर संदर्भ मान्य नहीं है।"
+
+msgid "Invalid transaction amount."
+msgstr "लेनदेन राशि मान्य नहीं है।"
+
+msgid "Invalid currency code."
+msgstr "मुद्रा कोड मान्य नहीं है।"
+
+msgid "Invalid transaction status."
+msgstr "लेनदेन स्थिति मान्य नहीं है।"
+
+msgid "Invalid signature format."
+msgstr "हस्ताक्षर का प्रारूप सही नहीं है।"
+
+msgid "Invalid signature."
+msgstr "हस्ताक्षर सत्यापित नहीं हुआ।"
+
+msgid "Order not found."
+msgstr "ऑर्डर नहीं मिला।"
+
+msgid "No valid data received"
+msgstr "कोई मान्य डेटा नहीं मिला"
+
+msgid "Missing required parameter: %s"
+msgstr "ज़रूरी पैरामीटर गायब है: %s"
+
+msgid "Invalid parameter type for: %s"
+msgstr "%s के लिए पैरामीटर प्रकार गलत है"
+
+msgid "Accept FPX, online banking, e-wallets, and card payments with Paydibs. Easy WooCommerce setup, secure checkout, and saved cards for returning customers."
+msgstr "Paydibs से FPX, ऑनलाइन बैंकिंग, ई-वॉलेट और कार्ड भुगतान लें। WooCommerce में आसान सेटअप, सुरक्षित चेकआउट, पुराने ग्राहकों के लिए सेव कार्ड।"
+
+msgid "Pay with Paydibs"
+msgstr "Paydibs से भुगतान करें"
+
+msgid "Test mode is on. You can run a test payment to try checkout."
+msgstr "परीक्षण मोड चालू है। चेकआउट आज़माने के लिए टेस्ट भुगतान कर सकते हैं।"
+
+msgid "Enable/Disable"
+msgstr "चालू/बंद"
+
+msgid "Enable Paydibs Gateway"
+msgstr "Paydibs गेटवे चालू करें"
+
+msgid "Turn on to accept payments through Paydibs."
+msgstr "चालू करें तो Paydibs से भुगतान मिलेगा।"
+
+msgid "Debug mode"
+msgstr "डिबग मोड"
+
+msgid "Enable Debug logging"
+msgstr "डिबग लॉग चालू करें"
+
+msgid "Log activity to help troubleshoot issues."
+msgstr "समस्या ढूँढने के लिए गतिविधि लॉग करें।"
+
+msgid "Test mode"
+msgstr "परीक्षण मोड"
+
+msgid "Live mode"
+msgstr "लाइव मोड"
+
+msgid "Change store currency"
+msgstr "स्टोर मुद्रा बदलें"
+
+msgid "Enable Test Mode"
+msgstr "परीक्षण मोड चालू करें"
+
+msgid "Use test API keys to run the gateway in test mode."
+msgstr "परीक्षण API कुंजी से गेटवे को टेस्ट मोड में चलाएँ।"
+
+msgid "Test Merchant ID"
+msgstr "परीक्षण व्यापारी ID"
+
+msgid "Test Secret Key"
+msgstr "परीक्षण गुप्त कुंजी"
+
+msgid "Test Currency"
+msgstr "परीक्षण मुद्रा"
+
+msgid "Auto (use store currency)"
+msgstr "ऑटो (स्टोर मुद्रा)"
+
+msgid "Live Merchant ID"
+msgstr "लाइव व्यापारी ID"
+
+msgid "Live Secret Key"
+msgstr "लाइव गुप्त कुंजी"
+
+msgid "Live Currency"
+msgstr "लाइव मुद्रा"
+
+msgid "Cash on Delivery (COD)"
+msgstr "डिलीवरी पर नकद (COD)"
+
+msgid "Enable COD fields for Paydibs"
+msgstr "Paydibs के लिए COD फ़ील्ड चालू करें"
+
+msgid "Enable receiver and parcel fields required by COD payment channels."
+msgstr "COD भुगतान के लिए प्राप्तकर्ता और पार्सल फ़ील्ड चालू करें।"
+
+msgid "Default Parcel Weight (kg)"
+msgstr "डिफ़ॉल्ट पार्सल वज़न (kg)"
+
+msgid "Default Parcel Length (cm)"
+msgstr "डिफ़ॉल्ट पार्सल लंबाई (cm)"
+
+msgid "Default Parcel Width (cm)"
+msgstr "डिफ़ॉल्ट पार्सल चौड़ाई (cm)"
+
+msgid "Default Parcel Height (cm)"
+msgstr "डिफ़ॉल्ट पार्सल ऊँचाई (cm)"
+
+msgid "Receiver Address Type"
+msgstr "प्राप्तकर्ता पता प्रकार"
+
+msgid "Home"
+msgstr "घर"
+
+msgid "Office"
+msgstr "दफ़्तर"
+
+msgid "Others"
+msgstr "अन्य"
+
+msgid "Paydibs Gateway: Store currency %1$s, gateway currency %2$s (%3$s). %4$s"
+msgstr "Paydibs गेटवे: स्टोर मुद्रा %1$s, गेटवे मुद्रा %2$s (%3$s). %4$s"
+
+msgid "Paydibs payment settings"
+msgstr "Paydibs भुगतान सेटिंग"
+
+msgid "Paydibs is in test mode. Real FPX, card, and banking charges will not run. Turn off test mode before you go live. %s"
+msgstr "Paydibs परीक्षण मोड में है। असली FPX, कार्ड और बैंकिंग शुल्क नहीं लगेंगे। लाइव जाने से पहले परीक्षण मोड बंद करें। %s"
+
+msgid "Paydibs is in test mode. Real FPX, card, and banking charges will not run. Turn off test mode before you go live."
+msgstr "Paydibs परीक्षण मोड में है। असली FPX, कार्ड और बैंकिंग शुल्क नहीं लगेंगे। लाइव जाने से पहले परीक्षण मोड बंद करें।"
+
+msgid "Transaction status verification failed for payment %1$s. Expected status %2$s; gateway query returned %3$s."
+msgstr "भुगतान %1$s की स्थिति जाँच नहीं हुई। अपेक्षित %2$s; गेटवे से %3$s मिला।"
+
+msgid "Empty response body from payment gateway."
+msgstr "भुगतान गेटवे से खाली जवाब।"
+
+msgid "Failed to decode JSON response from payment gateway."
+msgstr "भुगतान गेटवे का JSON पढ़ा नहीं जा सका।"
+
+msgid "Invalid gateway response body."
+msgstr "गेटवे का जवाब मान्य नहीं।"
+
+msgid "Gateway response missing required field: %s"
+msgstr "गेटवे जवाब में ज़रूरी फ़ील्ड नहीं: %s"
+
+msgid "HTTP error contacting payment gateway: %s"
+msgstr "भुगतान गेटवे से जुड़ते समय HTTP त्रुटि: %s"
+
+msgid "Unexpected HTTP response code from payment gateway: %d"
+msgstr "भुगतान गेटवे से अनपेक्षित HTTP कोड: %d"
+
+msgid "Paydibs Setup Wizard"
+msgstr "Paydibs सेटअप विज़ार्ड"
+
+msgid "You do not have permission to access this page."
+msgstr "आपको इस पेज की अनुमति नहीं है।"
+
+msgid "Test Merchant ID and Test Secret Key are required."
+msgstr "परीक्षण व्यापारी ID और गुप्त कुंजी भरना ज़रूरी है।"
+
+msgid "Complete your gateway setup in a few guided steps."
+msgstr "कुछ आसान चरणों में गेटवे सेटअप पूरा करें।"
+
+msgid "1. Mode"
+msgstr "1. मोड"
+
+msgid "2. Test Credentials"
+msgstr "2. परीक्षण क्रेडेंशियल"
+
+msgid "3. Live Credentials"
+msgstr "3. लाइव क्रेडेंशियल"
+
+msgid "4. Finalize"
+msgstr "4. समाप्त"
+
+msgid "Choose startup mode"
+msgstr "शुरुआती मोड चुनें"
+
+msgid "Use the switch to choose where you want transactions to run first."
+msgstr "स्विच से चुनें कि पहले टेस्ट में चलें या लाइव में।"
+
+msgid "Live"
+msgstr "लाइव"
+
+msgid "Test (recommended)"
+msgstr "परीक्षण (सुझावित)"
+
+msgid "Switch ON for Test mode, OFF for Live mode."
+msgstr "चालू = परीक्षण मोड, बंद = लाइव मोड।"
+
+msgid "Continue"
+msgstr "आगे बढ़ें"
+
+msgid "Configure test environment"
+msgstr "परीक्षण वातावरण सेट करें"
+
+msgid "Add staging credentials used for sandbox checkout testing."
+msgstr "सैंडबॉक्स चेकआउट के लिए स्टेजिंग क्रेडेंशियल डालें।"
+
+msgid "Show secret key"
+msgstr "गुप्त कुंजी दिखाएँ"
+
+msgid "Use AUTO to follow your WooCommerce store currency."
+msgstr "AUTO चुनें तो WooCommerce स्टोर मुद्रा लगेगी।"
+
+msgid "Save and continue"
+msgstr "सेव करें और आगे बढ़ें"
+
+msgid "Configure production environment"
+msgstr "प्रोडक्शन वातावरण सेट करें"
+
+msgid "You can set live credentials now or keep this empty and complete later."
+msgstr "लाइव क्रेडेंशियल अभी भरें या बाद में पूरा करें।"
+
+msgid "Finalize setup"
+msgstr "सेटअप पूरा करें"
+
+msgid "Choose optional behaviors and complete onboarding."
+msgstr "वैकल्पिक सेटिंग चुनें और ऑनबोर्डिंग पूरी करें।"
+
+msgid "Enable debug logging"
+msgstr "डिबग लॉग चालू करें"
+
+msgid "Enable COD fields"
+msgstr "COD फ़ील्ड चालू करें"
+
+msgid "Switch to Live mode now"
+msgstr "अभी लाइव मोड पर जाएँ"
+
+msgid "Tip: If you keep Test mode enabled, you can safely run trial orders before going live."
+msgstr "सुझाव: परीक्षण मोड पर ट्रायल ऑर्डर चलाएँ, फिर लाइव जाएँ।"
+
+msgid "Finish setup"
+msgstr "सेटअप समाप्त करें"
+
+msgid "Open gateway settings"
+msgstr "गेटवे सेटिंग खोलें"
+
+msgid "Setup complete. Reopen this wizard anytime at WooCommerce > Settings > Payments > Paydibs Gateway, or visit the setup wizard URL after activation."
+msgstr "सेटअप पूरा। WooCommerce > सेटिंग > भुगतान > Paydibs गेटवे से विज़ार्ड दोबारा खोल सकते हैं।"
+

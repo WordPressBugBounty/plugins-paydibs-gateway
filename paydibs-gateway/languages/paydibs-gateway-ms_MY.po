@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paydibs Gateway 4.0.6\n"
+"Report-Msgid-Bugs-To: https://paydibs.com\n"
+"POT-Creation-Date: 2026-06-03 00:00+0000\n"
+"PO-Revision-Date: 2026-06-03 00:00+0000\n"
+"Language-Team: Malay\n"
+"Language: ms_MY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Paydibs Gateway requires WooCommerce 2.6 or later. Please update WooCommerce."
+msgstr "Gerbang Paydibs memerlukan WooCommerce 2.6 atau lebih baharu. Sila kemas kini WooCommerce."
+
+msgid "Paydibs Gateway"
+msgstr "Gerbang Paydibs"
+
+msgid "Paydibs Gateway V4.0.6"
+msgstr "Gerbang Paydibs V4.0.6"
+
+msgid "Invalid order reference."
+msgstr "Rujukan pesanan tidak sah."
+
+msgid "Invalid transaction amount."
+msgstr "Amaun transaksi tidak sah."
+
+msgid "Invalid currency code."
+msgstr "Kod mata wang tidak sah."
+
+msgid "Invalid transaction status."
+msgstr "Status transaksi tidak sah."
+
+msgid "Invalid signature format."
+msgstr "Format tandatangan tidak sah."
+
+msgid "Invalid signature."
+msgstr "Tandatangan tidak sah."
+
+msgid "Order not found."
+msgstr "Pesanan tidak dijumpai."
+
+msgid "No valid data received"
+msgstr "Tiada data sah diterima"
+
+msgid "Missing required parameter: %s"
+msgstr "Parameter wajib tiada: %s"
+
+msgid "Invalid parameter type for: %s"
+msgstr "Jenis parameter tidak sah untuk: %s"
+
+msgid "Accept FPX, online banking, e-wallets, and card payments with Paydibs. Easy WooCommerce setup, secure checkout, and saved cards for returning customers."
+msgstr "Terima bayaran FPX, perbankan dalam talian, e-dompet dan kad melalui Paydibs. Senang pasang di WooCommerce, checkout selamat, pelanggan tetap boleh simpan kad."
+
+msgid "Pay with Paydibs"
+msgstr "Bayar dengan Paydibs"
+
+msgid "Test mode is on. You can run a test payment to try checkout."
+msgstr "Mod ujian aktif. Anda boleh buat bayaran ujian untuk cuba checkout."
+
+msgid "Enable/Disable"
+msgstr "Aktifkan/Nyahaktifkan"
+
+msgid "Enable Paydibs Gateway"
+msgstr "Aktifkan Gerbang Paydibs"
+
+msgid "Turn on to accept payments through Paydibs."
+msgstr "Aktifkan untuk terima bayaran melalui Paydibs."
+
+msgid "Debug mode"
+msgstr "Mod penyahpepijat"
+
+msgid "Enable Debug logging"
+msgstr "Aktifkan log penyahpepijat"
+
+msgid "Log activity to help troubleshoot issues."
+msgstr "Rekod aktiviti untuk bantu baiki masalah."
+
+msgid "Test mode"
+msgstr "Mod ujian"
+
+msgid "Live mode"
+msgstr "Mod produksi"
+
+msgid "Change store currency"
+msgstr "Tukar mata wang stor"
+
+msgid "Enable Test Mode"
+msgstr "Aktifkan Mod Ujian"
+
+msgid "Use test API keys to run the gateway in test mode."
+msgstr "Guna kunci API ujian supaya gerbang berjalan dalam mod ujian."
+
+msgid "Test Merchant ID"
+msgstr "ID Pedagang Ujian"
+
+msgid "Test Secret Key"
+msgstr "Kunci Rahsia Ujian"
+
+msgid "Test Currency"
+msgstr "Mata Wang Ujian"
+
+msgid "Auto (use store currency)"
+msgstr "Auto (guna mata wang stor)"
+
+msgid "Live Merchant ID"
+msgstr "ID Pedagang Produksi"
+
+msgid "Live Secret Key"
+msgstr "Kunci Rahsia Produksi"
+
+msgid "Live Currency"
+msgstr "Mata Wang Produksi"
+
+msgid "Cash on Delivery (COD)"
+msgstr "Bayar Tunai Semasa Penghantaran (COD)"
+
+msgid "Enable COD fields for Paydibs"
+msgstr "Aktifkan medan COD untuk Paydibs"
+
+msgid "Enable receiver and parcel fields required by COD payment channels."
+msgstr "Aktifkan medan penerima dan bungkusan untuk saluran bayaran COD."
+
+msgid "Default Parcel Weight (kg)"
+msgstr "Berat Bungkusan Lalai (kg)"
+
+msgid "Default Parcel Length (cm)"
+msgstr "Panjang Bungkusan Lalai (cm)"
+
+msgid "Default Parcel Width (cm)"
+msgstr "Lebar Bungkusan Lalai (cm)"
+
+msgid "Default Parcel Height (cm)"
+msgstr "Tinggi Bungkusan Lalai (cm)"
+
+msgid "Receiver Address Type"
+msgstr "Jenis Alamat Penerima"
+
+msgid "Home"
+msgstr "Rumah"
+
+msgid "Office"
+msgstr "Pejabat"
+
+msgid "Others"
+msgstr "Lain-lain"
+
+msgid "Paydibs Gateway: Store currency %1$s, gateway currency %2$s (%3$s). %4$s"
+msgstr "Gerbang Paydibs: Mata wang stor %1$s, mata wang gerbang %2$s (%3$s). %4$s"
+
+msgid "Paydibs payment settings"
+msgstr "Tetapan bayaran Paydibs"
+
+msgid "Paydibs is in test mode. Real FPX, card, and banking charges will not run. Turn off test mode before you go live. %s"
+msgstr "Paydibs dalam mod ujian. Caj FPX, kad dan perbankan sebenar tidak akan dikenakan. Nyahaktifkan mod ujian sebelum mula beroperasi. %s"
+
+msgid "Paydibs is in test mode. Real FPX, card, and banking charges will not run. Turn off test mode before you go live."
+msgstr "Paydibs dalam mod ujian. Caj FPX, kad dan perbankan sebenar tidak akan dikenakan. Nyahaktifkan mod ujian sebelum mula beroperasi."
+
+msgid "Transaction status verification failed for payment %1$s. Expected status %2$s; gateway query returned %3$s."
+msgstr "Pengesahan status transaksi gagal untuk bayaran %1$s. Dijangka %2$s; pertanyaan gerbang memulangkan %3$s."
+
+msgid "Empty response body from payment gateway."
+msgstr "Respons kosong daripada gerbang pembayaran."
+
+msgid "Failed to decode JSON response from payment gateway."
+msgstr "Gagal baca respons JSON daripada gerbang pembayaran."
+
+msgid "Invalid gateway response body."
+msgstr "Respons gerbang tidak sah."
+
+msgid "Gateway response missing required field: %s"
+msgstr "Respons gerbang tiada medan wajib: %s"
+
+msgid "HTTP error contacting payment gateway: %s"
+msgstr "Ralat HTTP semasa hubungi gerbang pembayaran: %s"
+
+msgid "Unexpected HTTP response code from payment gateway: %d"
+msgstr "Kod respons HTTP tidak dijangka daripada gerbang pembayaran: %d"
+
+msgid "Paydibs Setup Wizard"
+msgstr "Wizard Persediaan Paydibs"
+
+msgid "You do not have permission to access this page."
+msgstr "Anda tiada kebenaran untuk akses halaman ini."
+
+msgid "Test Merchant ID and Test Secret Key are required."
+msgstr "ID Pedagang Ujian dan Kunci Rahsia Ujian wajib diisi."
+
+msgid "Complete your gateway setup in a few guided steps."
+msgstr "Siapkan gerbang anda dalam beberapa langkah mudah."
+
+msgid "1. Mode"
+msgstr "1. Mod"
+
+msgid "2. Test Credentials"
+msgstr "2. Kelayakan Ujian"
+
+msgid "3. Live Credentials"
+msgstr "3. Kelayakan Produksi"
+
+msgid "4. Finalize"
+msgstr "4. Siap"
+
+msgid "Choose startup mode"
+msgstr "Pilih mod permulaan"
+
+msgid "Use the switch to choose where you want transactions to run first."
+msgstr "Guna suis untuk pilih transaksi bermula dalam mod ujian atau produksi."
+
+msgid "Live"
+msgstr "Produksi"
+
+msgid "Test (recommended)"
+msgstr "Ujian (disyorkan)"
+
+msgid "Switch ON for Test mode, OFF for Live mode."
+msgstr "HIDUP = mod ujian, MATI = mod produksi."
+
+msgid "Continue"
+msgstr "Teruskan"
+
+msgid "Configure test environment"
+msgstr "Sediakan persekitaran ujian"
+
+msgid "Add staging credentials used for sandbox checkout testing."
+msgstr "Masukkan kelayakan staging untuk ujian checkout sandbox."
+
+msgid "Show secret key"
+msgstr "Tunjuk kunci rahsia"
+
+msgid "Use AUTO to follow your WooCommerce store currency."
+msgstr "Pilih AUTO untuk ikut mata wang stor WooCommerce anda."
+
+msgid "Save and continue"
+msgstr "Simpan dan teruskan"
+
+msgid "Configure production environment"
+msgstr "Sediakan persekitaran produksi"
+
+msgid "You can set live credentials now or keep this empty and complete later."
+msgstr "Isi kelayakan produksi sekarang, atau biarkan kosong dan lengkapkan kemudian."
+
+msgid "Finalize setup"
+msgstr "Siapkan persediaan"
+
+msgid "Choose optional behaviors and complete onboarding."
+msgstr "Pilih tetapan pilihan dan tamatkan persediaan."
+
+msgid "Enable debug logging"
+msgstr "Aktifkan log penyahpepijat"
+
+msgid "Enable COD fields"
+msgstr "Aktifkan medan COD"
+
+msgid "Switch to Live mode now"
+msgstr "Tukar ke mod produksi sekarang"
+
+msgid "Tip: If you keep Test mode enabled, you can safely run trial orders before going live."
+msgstr "Petua: Kekalkan mod ujian untuk buat pesanan percubaan dengan selamat sebelum beroperasi."
+
+msgid "Finish setup"
+msgstr "Tamatkan persediaan"
+
+msgid "Open gateway settings"
+msgstr "Buka tetapan gerbang"
+
+msgid "Setup complete. Reopen this wizard anytime at WooCommerce > Settings > Payments > Paydibs Gateway, or visit the setup wizard URL after activation."
+msgstr "Persediaan selesai. Buka semula wizard di WooCommerce > Tetapan > Pembayaran > Gerbang Paydibs, atau lawati URL wizard selepas pengaktifan."
+

@@ -1,0 +1,365 @@
+# Copyright (C) 2026 Paydibs
+# This file is distributed under the same license as the Paydibs Gateway plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Paydibs Gateway 4.0.6\n"
+"Report-Msgid-Bugs-To: https://paydibs.com\n"
+"POT-Creation-Date: 2026-03-13 00:00+0000\n"
+"PO-Revision-Date: 2026-03-13 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: paydibs-gateway.php
+msgid "Paydibs Gateway requires WooCommerce 2.6 or later. Please update WooCommerce."
+msgstr ""
+
+#: paydibs-gateway.php includes/block/checkout.js
+msgid "Paydibs Gateway"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Paydibs Gateway V4.0.6"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Invalid order reference."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Invalid transaction amount."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Invalid currency code."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Invalid transaction status."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Invalid signature format."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Invalid signature."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Order not found."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "No valid data received"
+msgstr ""
+
+#. translators: %s: parameter name
+#: paydibs-gateway.php
+msgid "Missing required parameter: %s"
+msgstr ""
+
+#. translators: %s: parameter name
+#: paydibs-gateway.php
+msgid "Invalid parameter type for: %s"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Accept FPX, online banking, e-wallets, and card payments with Paydibs. Easy WooCommerce setup, secure checkout, and saved cards for returning customers."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Pay with Paydibs"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Test mode is on. You can run a test payment to try checkout."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Enable/Disable"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Enable Paydibs Gateway"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Turn on to accept payments through Paydibs."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Debug mode"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Enable Debug logging"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Log activity to help troubleshoot issues."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Test mode"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Live mode"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Change store currency"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Enable Test Mode"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Use test API keys to run the gateway in test mode."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Test Merchant ID"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Test Secret Key"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Test Currency"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Auto (use store currency)"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Live Merchant ID"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Live Secret Key"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Live Currency"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Cash on Delivery (COD)"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Enable COD fields for Paydibs"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Enable receiver and parcel fields required by COD payment channels."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Default Parcel Weight (kg)"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Default Parcel Length (cm)"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Default Parcel Width (cm)"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Default Parcel Height (cm)"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Receiver Address Type"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Home"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Office"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Others"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Paydibs Gateway: Store currency %1$s, gateway currency %2$s (%3$s). %4$s"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Paydibs payment settings"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Paydibs is in test mode. Real FPX, card, and banking charges will not run. Turn off test mode before you go live. %s"
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Paydibs is in test mode. Real FPX, card, and banking charges will not run. Turn off test mode before you go live."
+msgstr ""
+
+#. translators: 1: merchant payment ID, 2: expected status code, 3: status code returned by gateway QUERY.
+#: paydibs-gateway.php
+msgid "Transaction status verification failed for payment %1$s. Expected status %2$s; gateway query returned %3$s."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Empty response body from payment gateway."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Failed to decode JSON response from payment gateway."
+msgstr ""
+
+#: paydibs-gateway.php
+msgid "Invalid gateway response body."
+msgstr ""
+
+#. translators: %s: missing field name
+#: paydibs-gateway.php
+msgid "Gateway response missing required field: %s"
+msgstr ""
+
+#. translators: %s: error message
+#: paydibs-gateway.php
+msgid "HTTP error contacting payment gateway: %s"
+msgstr ""
+
+#. translators: %d: HTTP status code
+#: paydibs-gateway.php
+msgid "Unexpected HTTP response code from payment gateway: %d"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Paydibs Setup Wizard"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Test Merchant ID and Test Secret Key are required."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Complete your gateway setup in a few guided steps."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "1. Mode"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "2. Test Credentials"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "3. Live Credentials"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "4. Finalize"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Choose startup mode"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Use the switch to choose where you want transactions to run first."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Live"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Test (recommended)"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Switch ON for Test mode, OFF for Live mode."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Continue"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Configure test environment"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Add staging credentials used for sandbox checkout testing."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Show secret key"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Use AUTO to follow your WooCommerce store currency."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Save and continue"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Configure production environment"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "You can set live credentials now or keep this empty and complete later."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Finalize setup"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Choose optional behaviors and complete onboarding."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Enable debug logging"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Enable COD fields"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Switch to Live mode now"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Tip: If you keep Test mode enabled, you can safely run trial orders before going live."
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Finish setup"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Open gateway settings"
+msgstr ""
+
+#: includes/class-paydibs-setup-wizard.php
+msgid "Setup complete. Reopen this wizard anytime at WooCommerce > Settings > Payments > Paydibs Gateway, or visit the setup wizard URL after activation."
+msgstr ""
